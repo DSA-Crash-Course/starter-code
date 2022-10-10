@@ -2,7 +2,7 @@
 
 - Clone (or pull) the repositary in your local pc.
 ```
-git clone https://github.com/DSA-Crash-Course/starter-code.git
+git clone <repo_link>
 git pull
 ```
 
