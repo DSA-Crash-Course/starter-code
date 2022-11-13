@@ -25,7 +25,7 @@ master
 ```
 git checkout <branch_name>
 ```
-- Once you are working on the current branch, create you assignment, by making new files and completing the subtasks.
+- Once you are working on the current branch, create your assignment, by making new files and completing the subtasks.
 - Once you have built your project, and made sure it is in a working state:
 - Add all the files to the staging area :
 ```
